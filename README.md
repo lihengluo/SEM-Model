@@ -43,6 +43,19 @@ cd xcode
 cmake -G Xcode ..
 ```
 
+## ArchLinux building
+We should install two AUR packages to enable the compile:
+```
+yay -Syu glfw-x11 assimp
+```
+Then we just follow the cmake building steps above.
+```
+cd /path/to/LearnOpenGL
+mkdir build && cd build
+cmake ..
+cmake --build .
+```
+
 ## Glitter
 Polytonic created a project called [Glitter](https://github.com/Polytonic/Glitter) that is a dead-simple boilerplate for OpenGL. 
 Everything you need to run a single LearnOpenGL Project (including all libraries) and just that; nothing more. 
