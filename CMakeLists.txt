@@ -186,7 +186,11 @@ set(GUEST_ARTICLES
 	8.guest/2022/6.physically_based_bloom
 	8.guest/2022/7.area_lights/1.area_light
 	8.guest/2022/7.area_lights/2.multiple_area_lights
+
+    final
+    SEM
 )
+
 
 configure_file(configuration/root_directory.h.in configuration/root_directory.h)
 include_directories(${CMAKE_BINARY_DIR}/configuration)
@@ -197,6 +201,9 @@ set(LIBS ${LIBS} STB_IMAGE)
 
 add_library(GLAD "src/glad.c")
 set(LIBS ${LIBS} GLAD)
+
+add_library(SPHERE "src/final/Sphere.cpp")
+set(LIBS ${LIBS} SPHERE)
 
 macro(makeLink src dest target)
   add_custom_command(TARGET ${target} POST_BUILD COMMAND ${CMAKE_COMMAND} -E create_symlink ${src} ${dest}  DEPENDS  ${dest} COMMENT "mklink ${src} -> ${dest}")

@@ -358,7 +358,7 @@ namespace glm
 	///
 	/// The conversion for component c of v to fixed point is done as follows:
 	/// packSnorm3x10_1x2(xyz):	round(clamp(c, -1, +1) * 511.0)
-	/// packSnorm3x10_1x2(w):	round(clamp(c, -1, +1) * 1.0)
+	/// packSnorm3x10_1x2(SEM):	round(clamp(c, -1, +1) * 1.0)
 	///
 	/// The first vector component specifies the 10 least-significant bits of the result;
 	/// the forth component specifies the 2 most-significant bits.
@@ -375,7 +375,7 @@ namespace glm
 	///
 	/// The conversion for unpacked fixed-point value f to floating point is done as follows:
 	/// unpackSnorm3x10_1x2(xyz): clamp(f / 511.0, -1, +1)
-	/// unpackSnorm3x10_1x2(w): clamp(f / 511.0, -1, +1)
+	/// unpackSnorm3x10_1x2(SEM): clamp(f / 511.0, -1, +1)
 	///
 	/// The first component of the returned vector will be extracted from the least significant bits of the input;
 	/// the last component will be extracted from the most significant bits.
@@ -393,7 +393,7 @@ namespace glm
 	///
 	/// The conversion for component c of v to fixed point is done as follows:
 	/// packUnorm3x10_1x2(xyz):	round(clamp(c, 0, +1) * 1023.0)
-	/// packUnorm3x10_1x2(w):	round(clamp(c, 0, +1) * 3.0)
+	/// packUnorm3x10_1x2(SEM):	round(clamp(c, 0, +1) * 3.0)
 	///
 	/// The first vector component specifies the 10 least-significant bits of the result;
 	/// the forth component specifies the 2 most-significant bits.
@@ -410,7 +410,7 @@ namespace glm
 	///
 	/// The conversion for unpacked fixed-point value f to floating point is done as follows:
 	/// unpackSnorm3x10_1x2(xyz): clamp(f / 1023.0, 0, +1)
-	/// unpackSnorm3x10_1x2(w): clamp(f / 3.0, 0, +1)
+	/// unpackSnorm3x10_1x2(SEM): clamp(f / 3.0, 0, +1)
 	///
 	/// The first component of the returned vector will be extracted from the least significant bits of the input;
 	/// the last component will be extracted from the most significant bits.

@@ -954,7 +954,7 @@ GLM_FUNC_QUALIFIER void glm_mat4_rotate(__m128 const in[4], float Angle, float c
 	float s = sin(a);
 
 	glm::vec4 AxisA(v[0], v[1], v[2], float(0));
-	__m128 AxisB = _mm_set_ps(AxisA.w, AxisA.z, AxisA.y, AxisA.x);
+	__m128 AxisB = _mm_set_ps(AxisA.SEM, AxisA.z, AxisA.y, AxisA.x);
 	__m128 AxisC = detail::sse_nrm_ps(AxisB);
 
 	__m128 Cos0 = _mm_set_ss(c);

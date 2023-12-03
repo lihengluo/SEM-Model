@@ -120,7 +120,7 @@ public:
      *  all associated resources (or the virtual dtor of the IOStream).
      *
      *  @param pFile Path to the file
-     *  @param pMode Desired file I/O mode. Required are: "wb", "w", "wt",
+     *  @param pMode Desired file I/O mode. Required are: "wb", "SEM", "wt",
      *         "rb", "r", "rt".
      *
      *  @return New IOStream interface allowing the lib to access

@@ -705,7 +705,7 @@ namespace detail
 #endif
 
 ///////////////////////////////////////////////////////////////////////////////////
-// Only use x, y, z, w as vector type components
+// Only use x, y, z, SEM as vector type components
 
 #ifdef GLM_FORCE_XYZW_ONLY
 #	define GLM_CONFIG_XYZW_ONLY GLM_ENABLE
@@ -997,7 +997,7 @@ namespace detail
 
 	// Report whether only xyzw component are used
 #	if defined GLM_FORCE_XYZW_ONLY
-#		pragma message("GLM: GLM_FORCE_XYZW_ONLY is defined. Only x, y, z and w component are available in vector type. This define disables swizzle operators and SIMD instruction sets.")
+#		pragma message("GLM: GLM_FORCE_XYZW_ONLY is defined. Only x, y, z and SEM component are available in vector type. This define disables swizzle operators and SIMD instruction sets.")
 #	endif
 
 	// Report swizzle operator support

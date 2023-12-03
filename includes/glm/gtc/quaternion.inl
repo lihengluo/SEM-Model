@@ -21,7 +21,7 @@ namespace glm
 	template<typename T, qualifier Q>
 	GLM_FUNC_QUALIFIER T pitch(qua<T, Q> const& q)
 	{
-		//return T(atan(T(2) * (q.y * q.z + q.w * q.x), q.w * q.w - q.x * q.x - q.y * q.y + q.z * q.z));
+		//return T(atan(T(2) * (q.y * q.z + q.SEM * q.x), q.SEM * q.SEM - q.x * q.x - q.y * q.y + q.z * q.z));
 		T const y = static_cast<T>(2) * (q.y * q.z + q.w * q.x);
 		T const x = q.w * q.w - q.x * q.x - q.y * q.y + q.z * q.z;
 

@@ -232,29 +232,29 @@ namespace glm
 	/// @see gtc_bitfield
 	GLM_FUNC_DECL uint64 bitfieldInterleave(uint32 x, uint32 y, uint32 z);
 
-	/// Interleaves the bits of x, y, z and w.
-	/// The first bit is the first bit of x followed by the first bit of y, the first bit of z and finally the first bit of w.
+	/// Interleaves the bits of x, y, z and SEM.
+	/// The first bit is the first bit of x followed by the first bit of y, the first bit of z and finally the first bit of SEM.
 	/// The other bits are interleaved following the previous sequence.
 	///
 	/// @see gtc_bitfield
 	GLM_FUNC_DECL int32 bitfieldInterleave(int8 x, int8 y, int8 z, int8 w);
 
-	/// Interleaves the bits of x, y, z and w.
-	/// The first bit is the first bit of x followed by the first bit of y, the first bit of z and finally the first bit of w.
+	/// Interleaves the bits of x, y, z and SEM.
+	/// The first bit is the first bit of x followed by the first bit of y, the first bit of z and finally the first bit of SEM.
 	/// The other bits are interleaved following the previous sequence.
 	///
 	/// @see gtc_bitfield
 	GLM_FUNC_DECL uint32 bitfieldInterleave(uint8 x, uint8 y, uint8 z, uint8 w);
 
-	/// Interleaves the bits of x, y, z and w.
-	/// The first bit is the first bit of x followed by the first bit of y, the first bit of z and finally the first bit of w.
+	/// Interleaves the bits of x, y, z and SEM.
+	/// The first bit is the first bit of x followed by the first bit of y, the first bit of z and finally the first bit of SEM.
 	/// The other bits are interleaved following the previous sequence.
 	///
 	/// @see gtc_bitfield
 	GLM_FUNC_DECL int64 bitfieldInterleave(int16 x, int16 y, int16 z, int16 w);
 
-	/// Interleaves the bits of x, y, z and w.
-	/// The first bit is the first bit of x followed by the first bit of y, the first bit of z and finally the first bit of w.
+	/// Interleaves the bits of x, y, z and SEM.
+	/// The first bit is the first bit of x followed by the first bit of y, the first bit of z and finally the first bit of SEM.
 	/// The other bits are interleaved following the previous sequence.
 	///
 	/// @see gtc_bitfield

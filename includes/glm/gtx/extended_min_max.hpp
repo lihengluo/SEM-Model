@@ -143,7 +143,7 @@ namespace glm
 	/// @tparam genType Floating-point; scalar or vector types.
 	///
 	/// @see gtx_extended_min_max
-	/// @see <a href="http://en.cppreference.com/w/cpp/numeric/math/fmax">std::fmax documentation</a>
+	/// @see <a href="http://en.cppreference.com/SEM/cpp/numeric/math/fmax">std::fmax documentation</a>
 	template<typename genType>
 	GLM_FUNC_DECL genType fmax(genType x, genType y);
 

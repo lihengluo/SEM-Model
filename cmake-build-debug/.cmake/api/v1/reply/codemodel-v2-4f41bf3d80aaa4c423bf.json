@@ -1,0 +1,924 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						88,
+						89,
+						90,
+						91,
+						92,
+						93,
+						94,
+						95,
+						96
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LearnOpenGL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						88,
+						89,
+						90,
+						91,
+						92,
+						93,
+						94,
+						95,
+						96
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__1.1.hello_window::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__1.1.hello_window-Debug-4c066a642eced2097f22.json",
+					"name" : "1.getting_started__1.1.hello_window",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__1.2.hello_window_clear::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__1.2.hello_window_clear-Debug-e1428e52ad44a3589653.json",
+					"name" : "1.getting_started__1.2.hello_window_clear",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__2.1.hello_triangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__2.1.hello_triangle-Debug-b3624c63076abfc830f4.json",
+					"name" : "1.getting_started__2.1.hello_triangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__2.2.hello_triangle_indexed::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__2.2.hello_triangle_indexed-Debug-1ce937a8ea15a0647565.json",
+					"name" : "1.getting_started__2.2.hello_triangle_indexed",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__2.3.hello_triangle_exercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__2.3.hello_triangle_exercise1-Debug-28440e0ca1088e9f5c87.json",
+					"name" : "1.getting_started__2.3.hello_triangle_exercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__2.4.hello_triangle_exercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__2.4.hello_triangle_exercise2-Debug-293ebc86b87710d70018.json",
+					"name" : "1.getting_started__2.4.hello_triangle_exercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__2.5.hello_triangle_exercise3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__2.5.hello_triangle_exercise3-Debug-8bb31efc5ce331798af2.json",
+					"name" : "1.getting_started__2.5.hello_triangle_exercise3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__3.1.shaders_uniform::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__3.1.shaders_uniform-Debug-336aaa13d5b8be90ea6c.json",
+					"name" : "1.getting_started__3.1.shaders_uniform",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__3.2.shaders_interpolation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__3.2.shaders_interpolation-Debug-b2685f7ea8155b06e10a.json",
+					"name" : "1.getting_started__3.2.shaders_interpolation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__3.3.shaders_class::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__3.3.shaders_class-Debug-b54a7870b685c5ae43df.json",
+					"name" : "1.getting_started__3.3.shaders_class",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__4.1.textures::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__4.1.textures-Debug-071b71ca39a069940add.json",
+					"name" : "1.getting_started__4.1.textures",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__4.2.textures_combined::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__4.2.textures_combined-Debug-1020c6505aba88474c1b.json",
+					"name" : "1.getting_started__4.2.textures_combined",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__4.4.textures_exercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__4.4.textures_exercise2-Debug-42817d07538a47f18179.json",
+					"name" : "1.getting_started__4.4.textures_exercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__4.5.textures_exercise3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__4.5.textures_exercise3-Debug-1fa659dd849049a9a89b.json",
+					"name" : "1.getting_started__4.5.textures_exercise3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__4.6.textures_exercise4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__4.6.textures_exercise4-Debug-61d8cec043e3f08b903d.json",
+					"name" : "1.getting_started__4.6.textures_exercise4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__5.1.transformations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__5.1.transformations-Debug-93192ca8f2cd934fed10.json",
+					"name" : "1.getting_started__5.1.transformations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__5.2.transformations_exercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__5.2.transformations_exercise2-Debug-cd8cfc6025b2fe59ae67.json",
+					"name" : "1.getting_started__5.2.transformations_exercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__6.1.coordinate_systems::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__6.1.coordinate_systems-Debug-57b8bc8f1a7fc659f581.json",
+					"name" : "1.getting_started__6.1.coordinate_systems",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__6.2.coordinate_systems_depth::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__6.2.coordinate_systems_depth-Debug-664582483a1e9984ded3.json",
+					"name" : "1.getting_started__6.2.coordinate_systems_depth",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__6.3.coordinate_systems_multiple::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__6.3.coordinate_systems_multiple-Debug-6b203d9016f1279c6782.json",
+					"name" : "1.getting_started__6.3.coordinate_systems_multiple",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__7.1.camera_circle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__7.1.camera_circle-Debug-2ea4d29505d4f5eebfc4.json",
+					"name" : "1.getting_started__7.1.camera_circle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__7.2.camera_keyboard_dt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__7.2.camera_keyboard_dt-Debug-91537d3cdcac0a05979d.json",
+					"name" : "1.getting_started__7.2.camera_keyboard_dt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__7.3.camera_mouse_zoom::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__7.3.camera_mouse_zoom-Debug-62b433a593c8682605b8.json",
+					"name" : "1.getting_started__7.3.camera_mouse_zoom",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.getting_started__7.4.camera_class::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.getting_started__7.4.camera_class-Debug-c4753b4a7fa918f7f2e8.json",
+					"name" : "1.getting_started__7.4.camera_class",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.lighting__1.colors::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.lighting__1.colors-Debug-78169985189ed1cb792e.json",
+					"name" : "2.lighting__1.colors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.lighting__2.1.basic_lighting_diffuse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.lighting__2.1.basic_lighting_diffuse-Debug-7295654b510898575cac.json",
+					"name" : "2.lighting__2.1.basic_lighting_diffuse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.lighting__2.2.basic_lighting_specular::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.lighting__2.2.basic_lighting_specular-Debug-cadf1d390215a5b2e1ec.json",
+					"name" : "2.lighting__2.2.basic_lighting_specular",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.lighting__3.1.materials::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.lighting__3.1.materials-Debug-7a99694b5d6397ceaf76.json",
+					"name" : "2.lighting__3.1.materials",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.lighting__3.2.materials_exercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.lighting__3.2.materials_exercise1-Debug-de34720464707e13d7bf.json",
+					"name" : "2.lighting__3.2.materials_exercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.lighting__4.1.lighting_maps_diffuse_map::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.lighting__4.1.lighting_maps_diffuse_map-Debug-91d834e11cb232b8e0e0.json",
+					"name" : "2.lighting__4.1.lighting_maps_diffuse_map",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.lighting__4.2.lighting_maps_specular_map::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.lighting__4.2.lighting_maps_specular_map-Debug-4ca38bbaa3f80f705c4e.json",
+					"name" : "2.lighting__4.2.lighting_maps_specular_map",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.lighting__4.4.lighting_maps_exercise4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.lighting__4.4.lighting_maps_exercise4-Debug-cb21baee0fd38d8791aa.json",
+					"name" : "2.lighting__4.4.lighting_maps_exercise4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.lighting__5.1.light_casters_directional::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.lighting__5.1.light_casters_directional-Debug-49ad9ae32f9ca0fc6e32.json",
+					"name" : "2.lighting__5.1.light_casters_directional",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.lighting__5.2.light_casters_point::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.lighting__5.2.light_casters_point-Debug-ac1f2672db030f000da6.json",
+					"name" : "2.lighting__5.2.light_casters_point",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.lighting__5.3.light_casters_spot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.lighting__5.3.light_casters_spot-Debug-fec16a63b121f1278490.json",
+					"name" : "2.lighting__5.3.light_casters_spot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.lighting__5.4.light_casters_spot_soft::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.lighting__5.4.light_casters_spot_soft-Debug-f153aa3aed1764d9e394.json",
+					"name" : "2.lighting__5.4.light_casters_spot_soft",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.lighting__6.multiple_lights::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.lighting__6.multiple_lights-Debug-b5abc3be05da813b6aaa.json",
+					"name" : "2.lighting__6.multiple_lights",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3.model_loading__1.model_loading::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3.model_loading__1.model_loading-Debug-420d109ef71065f17669.json",
+					"name" : "3.model_loading__1.model_loading",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__1.1.depth_testing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__1.1.depth_testing-Debug-637125b0aa3596f509a9.json",
+					"name" : "4.advanced_opengl__1.1.depth_testing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__1.2.depth_testing_view::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__1.2.depth_testing_view-Debug-ddad42fc4e1ea138fb8c.json",
+					"name" : "4.advanced_opengl__1.2.depth_testing_view",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__10.1.instancing_quads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__10.1.instancing_quads-Debug-92975bf463f75de421e6.json",
+					"name" : "4.advanced_opengl__10.1.instancing_quads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__10.2.asteroids::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__10.2.asteroids-Debug-442ca2c01cb643fced0e.json",
+					"name" : "4.advanced_opengl__10.2.asteroids",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__10.3.asteroids_instanced::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__10.3.asteroids_instanced-Debug-f769d711d6a6fc4e756c.json",
+					"name" : "4.advanced_opengl__10.3.asteroids_instanced",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__11.1.anti_aliasing_msaa::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__11.1.anti_aliasing_msaa-Debug-169605c9f17787ca4c8e.json",
+					"name" : "4.advanced_opengl__11.1.anti_aliasing_msaa",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__11.2.anti_aliasing_offscreen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__11.2.anti_aliasing_offscreen-Debug-0443191471f70f7b523d.json",
+					"name" : "4.advanced_opengl__11.2.anti_aliasing_offscreen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__2.stencil_testing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__2.stencil_testing-Debug-50f5f6da93af74f604f6.json",
+					"name" : "4.advanced_opengl__2.stencil_testing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__3.1.blending_discard::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__3.1.blending_discard-Debug-c486bfe94dd2ae8a205c.json",
+					"name" : "4.advanced_opengl__3.1.blending_discard",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__3.2.blending_sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__3.2.blending_sort-Debug-841c1d1004208e4008fb.json",
+					"name" : "4.advanced_opengl__3.2.blending_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__5.1.framebuffers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__5.1.framebuffers-Debug-e4e30c18ffd542e172e0.json",
+					"name" : "4.advanced_opengl__5.1.framebuffers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__5.2.framebuffers_exercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__5.2.framebuffers_exercise1-Debug-5fc5bf78cce59ab3e252.json",
+					"name" : "4.advanced_opengl__5.2.framebuffers_exercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__6.1.cubemaps_skybox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__6.1.cubemaps_skybox-Debug-1419063b0fcf5f4a2ab2.json",
+					"name" : "4.advanced_opengl__6.1.cubemaps_skybox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__6.2.cubemaps_environment_mapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__6.2.cubemaps_environment_mapping-Debug-f7b6b21640f34459ffea.json",
+					"name" : "4.advanced_opengl__6.2.cubemaps_environment_mapping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__8.advanced_glsl_ubo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__8.advanced_glsl_ubo-Debug-e663c923a97f69b5bd88.json",
+					"name" : "4.advanced_opengl__8.advanced_glsl_ubo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__9.1.geometry_shader_houses::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__9.1.geometry_shader_houses-Debug-81d4759607397d0e2815.json",
+					"name" : "4.advanced_opengl__9.1.geometry_shader_houses",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__9.2.geometry_shader_exploding::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__9.2.geometry_shader_exploding-Debug-b1e47f4c22b533c15e80.json",
+					"name" : "4.advanced_opengl__9.2.geometry_shader_exploding",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.advanced_opengl__9.3.geometry_shader_normals::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.advanced_opengl__9.3.geometry_shader_normals-Debug-65c9fb8364cddac68783.json",
+					"name" : "4.advanced_opengl__9.3.geometry_shader_normals",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__1.advanced_lighting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__1.advanced_lighting-Debug-37cd57f1376f05041ad7.json",
+					"name" : "5.advanced_lighting__1.advanced_lighting",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__2.gamma_correction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__2.gamma_correction-Debug-604b91d6c70ee7a56f3a.json",
+					"name" : "5.advanced_lighting__2.gamma_correction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__3.1.1.shadow_mapping_depth::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__3.1.1.shadow_mapping_depth-Debug-de5fd92176ccffef71ef.json",
+					"name" : "5.advanced_lighting__3.1.1.shadow_mapping_depth",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__3.1.2.shadow_mapping_base::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__3.1.2.shadow_mapping_base-Debug-74291cc666da76a8e6b3.json",
+					"name" : "5.advanced_lighting__3.1.2.shadow_mapping_base",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__3.1.3.shadow_mapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__3.1.3.shadow_mapping-Debug-839d4d1818a5e935b33c.json",
+					"name" : "5.advanced_lighting__3.1.3.shadow_mapping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__3.2.1.point_shadows::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__3.2.1.point_shadows-Debug-3a70f29768490da40e00.json",
+					"name" : "5.advanced_lighting__3.2.1.point_shadows",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__3.2.2.point_shadows_soft::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__3.2.2.point_shadows_soft-Debug-6876ad0ce7bebe8f3d24.json",
+					"name" : "5.advanced_lighting__3.2.2.point_shadows_soft",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__4.normal_mapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__4.normal_mapping-Debug-344292bccbfb305ead7a.json",
+					"name" : "5.advanced_lighting__4.normal_mapping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__5.1.parallax_mapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__5.1.parallax_mapping-Debug-0b7f7acf6695d7f3028f.json",
+					"name" : "5.advanced_lighting__5.1.parallax_mapping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__5.2.steep_parallax_mapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__5.2.steep_parallax_mapping-Debug-c96b8974191133325426.json",
+					"name" : "5.advanced_lighting__5.2.steep_parallax_mapping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__5.3.parallax_occlusion_mapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__5.3.parallax_occlusion_mapping-Debug-1f327cf05a8febff6701.json",
+					"name" : "5.advanced_lighting__5.3.parallax_occlusion_mapping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__6.hdr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__6.hdr-Debug-d8f086230f9f5c1419de.json",
+					"name" : "5.advanced_lighting__6.hdr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__7.bloom::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__7.bloom-Debug-32eb9d8e9eeb74849125.json",
+					"name" : "5.advanced_lighting__7.bloom",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__8.1.deferred_shading::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__8.1.deferred_shading-Debug-07286a3ccdf82f035dbc.json",
+					"name" : "5.advanced_lighting__8.1.deferred_shading",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__8.2.deferred_shading_volumes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__8.2.deferred_shading_volumes-Debug-e29a4b318d9452e3889a.json",
+					"name" : "5.advanced_lighting__8.2.deferred_shading_volumes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.advanced_lighting__9.ssao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.advanced_lighting__9.ssao-Debug-a2f27909b37dab96509d.json",
+					"name" : "5.advanced_lighting__9.ssao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.pbr__1.1.lighting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.pbr__1.1.lighting-Debug-1995a27bf3d97c676a19.json",
+					"name" : "6.pbr__1.1.lighting",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.pbr__1.2.lighting_textured::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.pbr__1.2.lighting_textured-Debug-eb2c448ad9dd4c0de29d.json",
+					"name" : "6.pbr__1.2.lighting_textured",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.pbr__2.1.1.ibl_irradiance_conversion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.pbr__2.1.1.ibl_irradiance_conversion-Debug-8cacc00a53348faee915.json",
+					"name" : "6.pbr__2.1.1.ibl_irradiance_conversion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.pbr__2.1.2.ibl_irradiance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.pbr__2.1.2.ibl_irradiance-Debug-8adf43f483cdfbed1a60.json",
+					"name" : "6.pbr__2.1.2.ibl_irradiance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.pbr__2.2.1.ibl_specular::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.pbr__2.2.1.ibl_specular-Debug-80c843fd7281d3856dcb.json",
+					"name" : "6.pbr__2.2.1.ibl_specular",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.pbr__2.2.2.ibl_specular_textured::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.pbr__2.2.2.ibl_specular_textured-Debug-c6b2bb2da0ab5d05ce93.json",
+					"name" : "6.pbr__2.2.2.ibl_specular_textured",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7.in_practice__1.debugging::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7.in_practice__1.debugging-Debug-7607e779b5a44d876a3f.json",
+					"name" : "7.in_practice__1.debugging",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7.in_practice__2.text_rendering::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7.in_practice__2.text_rendering-Debug-936ba718586cda391f6c.json",
+					"name" : "7.in_practice__2.text_rendering",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.guest_2020_oit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.guest_2020_oit-Debug-fd45787a4f0c3e0de1f4.json",
+					"name" : "8.guest_2020_oit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.guest_2020_skeletal_animation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.guest_2020_skeletal_animation-Debug-ace172b4d9b88fa87f5c.json",
+					"name" : "8.guest_2020_skeletal_animation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.guest_2021_1.scene_1.scene_graph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.guest_2021_1.scene_1.scene_graph-Debug-388091e341074a4186fd.json",
+					"name" : "8.guest_2021_1.scene_1.scene_graph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.guest_2021_1.scene_2.frustum_culling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.guest_2021_1.scene_2.frustum_culling-Debug-0e2aa2068490b75e5488.json",
+					"name" : "8.guest_2021_1.scene_2.frustum_culling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.guest_2021_2.csm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.guest_2021_2.csm-Debug-378d5e53538284d9eb2e.json",
+					"name" : "8.guest_2021_2.csm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.guest_2021_3.tessellation_terrain_cpu_src::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.guest_2021_3.tessellation_terrain_cpu_src-Debug-39874f53e62f22dba066.json",
+					"name" : "8.guest_2021_3.tessellation_terrain_cpu_src",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.guest_2021_3.tessellation_terrain_gpu_dist::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.guest_2021_3.tessellation_terrain_gpu_dist-Debug-1668df59b631a205c874.json",
+					"name" : "8.guest_2021_3.tessellation_terrain_gpu_dist",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.guest_2021_4.dsa::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.guest_2021_4.dsa-Debug-adde0f4f1ad0ce071b66.json",
+					"name" : "8.guest_2021_4.dsa",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.guest_2022_5.computeshader_helloworld::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.guest_2022_5.computeshader_helloworld-Debug-5a39b63f10b11c573610.json",
+					"name" : "8.guest_2022_5.computeshader_helloworld",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.guest_2022_6.physically_based_bloom::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.guest_2022_6.physically_based_bloom-Debug-8bfec5bb6de1c01a2b68.json",
+					"name" : "8.guest_2022_6.physically_based_bloom",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.guest_2022_7.area_lights_1.area_light::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.guest_2022_7.area_lights_1.area_light-Debug-a4f35a7a2de527439b2d.json",
+					"name" : "8.guest_2022_7.area_lights_1.area_light",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.guest_2022_7.area_lights_2.multiple_area_lights::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.guest_2022_7.area_lights_2.multiple_area_lights-Debug-b2e1de748447ff4b26f5.json",
+					"name" : "8.guest_2022_7.area_lights_2.multiple_area_lights",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GLAD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GLAD-Debug-dd179191e8be071f84f4.json",
+					"name" : "GLAD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SEM::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SEM-Debug-dc08291abed11ee6d523.json",
+					"name" : "SEM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SPHERE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SPHERE-Debug-633c1f64b4a405d9762b.json",
+					"name" : "SPHERE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "STB_IMAGE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-STB_IMAGE-Debug-05f0e7a8491a3a65672e.json",
+					"name" : "STB_IMAGE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "final::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-final-Debug-c2fa5338f392efc2950e.json",
+					"name" : "final",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ByteBloom/LearnOpenGL/cmake-build-debug",
+		"source" : "/home/ByteBloom/LearnOpenGL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

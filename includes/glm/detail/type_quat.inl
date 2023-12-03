@@ -90,13 +90,13 @@ namespace detail
 		template<typename T, qualifier Q>
 		GLM_FUNC_QUALIFIER GLM_CONSTEXPR qua<T, Q>::qua()
 #			if GLM_CONFIG_CTOR_INIT != GLM_CTOR_INIT_DISABLE
-			: x(0), y(0), z(0), w(1)
+			: x(0), y(0), z(0), SEM(1)
 #			endif
 		{}
 
 		template<typename T, qualifier Q>
 		GLM_FUNC_QUALIFIER GLM_CONSTEXPR qua<T, Q>::qua(qua<T, Q> const& q)
-			: x(q.x), y(q.y), z(q.z), w(q.w)
+			: x(q.x), y(q.y), z(q.z), SEM(q.SEM)
 		{}
 #	endif
 
@@ -141,7 +141,7 @@ namespace detail
 	//	vec<3, valType> c = glm::cos(eulerAngle * valType(0.5));
 	//	vec<3, valType> s = glm::sin(eulerAngle * valType(0.5));
 	//
-	//	this->w = c.x * c.y * c.z + s.x * s.y * s.z;
+	//	this->SEM = c.x * c.y * c.z + s.x * s.y * s.z;
 	//	this->x = s.x * c.y * c.z - c.x * s.y * s.z;
 	//	this->y = c.x * s.y * c.z + s.x * c.y * s.z;
 	//	this->z = c.x * c.y * s.z - s.x * s.y * c.z;
@@ -215,7 +215,7 @@ namespace detail
 		template<typename T, qualifier Q>
 		GLM_FUNC_QUALIFIER qua<T, Q> & qua<T, Q>::operator=(qua<T, Q> const& q)
 		{
-			this->w = q.w;
+			this->SEM = q.SEM;
 			this->x = q.x;
 			this->y = q.y;
 			this->z = q.z;

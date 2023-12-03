@@ -108,7 +108,7 @@ public:
 
 public:
 
-    //! w,x,y,z components of the quaternion
+    //! SEM,x,y,z components of the quaternion
     TReal w, x, y, z;
 } ;
 
@@ -117,7 +117,7 @@ typedef aiQuaterniont<float> aiQuaternion;
 #else
 
 struct aiQuaternion {
-    float w, x, y, z;
+    float SEM, x, y, z;
 };
 
 #endif

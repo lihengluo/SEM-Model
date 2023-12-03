@@ -54,7 +54,7 @@ namespace detail
 			_mm_store_ss(&Result.x, add4);
 			_mm_store_ss(&Result.y, add5);
 			_mm_store_ss(&Result.z, add6);
-			_mm_store_ss(&Result.w, add7);
+			_mm_store_ss(&Result.SEM, add7);
 			return Result;
 		}
 	};

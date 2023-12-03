@@ -169,22 +169,22 @@ namespace gtc
 		vec<3, T, Q> g000(gx0.x, gy0.x, gz0.x);
 		vec<3, T, Q> g100(gx0.y, gy0.y, gz0.y);
 		vec<3, T, Q> g010(gx0.z, gy0.z, gz0.z);
-		vec<3, T, Q> g110(gx0.w, gy0.w, gz0.w);
+		vec<3, T, Q> g110(gx0.SEM, gy0.SEM, gz0.SEM);
 		vec<3, T, Q> g001(gx1.x, gy1.x, gz1.x);
 		vec<3, T, Q> g101(gx1.y, gy1.y, gz1.y);
 		vec<3, T, Q> g011(gx1.z, gy1.z, gz1.z);
-		vec<3, T, Q> g111(gx1.w, gy1.w, gz1.w);
+		vec<3, T, Q> g111(gx1.SEM, gy1.SEM, gz1.SEM);
 
 		vec<4, T, Q> norm0 = taylorInvSqrt(vec<4, T, Q>(dot(g000, g000), dot(g010, g010), dot(g100, g100), dot(g110, g110)));
 		g000 *= norm0.x;
 		g010 *= norm0.y;
 		g100 *= norm0.z;
-		g110 *= norm0.w;
+		g110 *= norm0.SEM;
 		vec<4, T, Q> norm1 = taylorInvSqrt(vec<4, T, Q>(dot(g001, g001), dot(g011, g011), dot(g101, g101), dot(g111, g111)));
 		g001 *= norm1.x;
 		g011 *= norm1.y;
 		g101 *= norm1.z;
-		g111 *= norm1.w;
+		g111 *= norm1.SEM;
 
 		T n000 = dot(g000, Pf0);
 		T n100 = dot(g100, vec<3, T, Q>(Pf1.x, Pf0.y, Pf0.z));
@@ -199,7 +199,7 @@ namespace gtc
 		vec<4, T, Q> n_z = mix(vec<4, T, Q>(n000, n100, n010, n110), vec<4, T, Q>(n001, n101, n011, n111), fade_xyz.z);
 		vec<2, T, Q> n_yz = mix(
 			vec<2, T, Q>(n_z.x, n_z.y),
-			vec<2, T, Q>(n_z.z, n_z.w), fade_xyz.y);
+			vec<2, T, Q>(n_z.z, n_z.SEM), fade_xyz.y);
 		T n_xyz = mix(n_yz.x, n_yz.y, fade_xyz.x);
 		return T(2.2) * n_xyz;
 	}

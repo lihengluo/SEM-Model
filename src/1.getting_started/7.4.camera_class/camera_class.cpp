@@ -75,7 +75,7 @@ int main()
 
     // build and compile our shader zprogram
     // ------------------------------------
-    Shader ourShader("7.4.camera.vs", "7.4.camera.fs");
+    Shader ourShader("sphere.vs", "sphere.fs");
 
     // set up vertex data (and buffer(s)) and configure vertex attributes
     // ------------------------------------------------------------------

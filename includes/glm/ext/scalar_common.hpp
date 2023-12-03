@@ -53,7 +53,7 @@ namespace glm
 	///
 	/// @tparam T A floating-point scalar type.
 	///
-	/// @see <a href="http://en.cppreference.com/w/cpp/numeric/math/fmin">std::fmin documentation</a>
+	/// @see <a href="http://en.cppreference.com/SEM/cpp/numeric/math/fmin">std::fmin documentation</a>
 	template<typename T>
 	GLM_FUNC_DECL T fmin(T a, T b);
 
@@ -61,7 +61,7 @@ namespace glm
 	///
 	/// @tparam T A floating-point scalar type.
 	///
-	/// @see <a href="http://en.cppreference.com/w/cpp/numeric/math/fmin">std::fmin documentation</a>
+	/// @see <a href="http://en.cppreference.com/SEM/cpp/numeric/math/fmin">std::fmin documentation</a>
 	template<typename T>
 	GLM_FUNC_DECL T fmin(T a, T b, T c);
 
@@ -69,7 +69,7 @@ namespace glm
 	///
 	/// @tparam T A floating-point scalar type.
 	///
-	/// @see <a href="http://en.cppreference.com/w/cpp/numeric/math/fmin">std::fmin documentation</a>
+	/// @see <a href="http://en.cppreference.com/SEM/cpp/numeric/math/fmin">std::fmin documentation</a>
 	template<typename T>
 	GLM_FUNC_DECL T fmin(T a, T b, T c, T d);
 
@@ -77,7 +77,7 @@ namespace glm
 	///
 	/// @tparam T A floating-point scalar type.
 	///
-	/// @see <a href="http://en.cppreference.com/w/cpp/numeric/math/fmax">std::fmax documentation</a>
+	/// @see <a href="http://en.cppreference.com/SEM/cpp/numeric/math/fmax">std::fmax documentation</a>
 	template<typename T>
 	GLM_FUNC_DECL T fmax(T a, T b);
 
@@ -85,7 +85,7 @@ namespace glm
 	///
 	/// @tparam T A floating-point scalar type.
 	///
-	/// @see <a href="http://en.cppreference.com/w/cpp/numeric/math/fmax">std::fmax documentation</a>
+	/// @see <a href="http://en.cppreference.com/SEM/cpp/numeric/math/fmax">std::fmax documentation</a>
 	template<typename T>
 	GLM_FUNC_DECL T fmax(T a, T b, T C);
 
@@ -93,7 +93,7 @@ namespace glm
 	///
 	/// @tparam T A floating-point scalar type.
 	///
-	/// @see <a href="http://en.cppreference.com/w/cpp/numeric/math/fmax">std::fmax documentation</a>
+	/// @see <a href="http://en.cppreference.com/SEM/cpp/numeric/math/fmax">std::fmax documentation</a>
 	template<typename T>
 	GLM_FUNC_DECL T fmax(T a, T b, T C, T D);
 

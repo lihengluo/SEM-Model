@@ -4,7 +4,6 @@
 
 #include <learnopengl/filesystem.h>
 #include <learnopengl/shader_s.h>
-
 #include <iostream>
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
